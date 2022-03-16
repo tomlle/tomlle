@@ -7,6 +7,8 @@
 
 
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tomlle&theme=dracula)  
-![](https://github-readme-stats.vercel.app/api?username=hoge&count_private=true&show_icons=true&theme=onedark)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=tomlle&layout=compact&theme=onedark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tomlle&theme=dracula)
+
+![](https://github-readme-stats.vercel.app/api?username=tomlle&count_private=true&show_icons=true&theme=dracula)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=tomlle&layout=compact&theme=dracula)
